@@ -1,2 +1,20 @@
 はじめてのコミット練習
 2回目の編集
+
+---
+
+# Git練習用リポジトリ
+
+## やったこと
+- `git init` でリポジトリを初期化
+- ファイルの作成 (`hello.txt`, `practice.txt`)
+- `git add` でステージング
+- `git commit` でコミット
+- `git branch` と `git switch` でブランチ操作
+- `git push` でリモートに反映
+- `git reset` と `git revert` を確認
+- `git log` で履歴確認
+- `git status` で状態確認
+
+## 課題
+- コンフリクトが発生した時の対応
